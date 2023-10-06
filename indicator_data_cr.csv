@@ -1,0 +1,194 @@
+category,indicator,indicator_friendly,type_data,latitude,longitude,region_id,country_id,name,year,value
+#meta+category,#indicator+name,#indicator+description,#indicator+type,#geo+lat,#geo+lon,#region+code,#country+code+v_iso2,#country+name,#date+year,#indicator+value
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10,-84,389,CR,Costa rica,1985,2.13
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10,-84,389,CR,Costa rica,1955,0.23
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10,-84,389,CR,Costa rica,2020,0.66
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10,-84,389,CR,Costa rica,1990,1.92
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10,-84,389,CR,Costa rica,1960,0.88
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10,-84,389,CR,Costa rica,2025,0.61
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10,-84,389,CR,Costa rica,1995,1.12
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10,-84,389,CR,Costa rica,1965,1.61
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10,-84,389,CR,Costa rica,2030,0.56
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10,-84,389,CR,Costa rica,2000,0.89
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10,-84,389,CR,Costa rica,1970,1.25
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10,-84,389,CR,Costa rica,2035,0.51
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10,-84,389,CR,Costa rica,2005,0.83
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10,-84,389,CR,Costa rica,1975,0.83
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10,-84,389,CR,Costa rica,2040,0.47
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10,-84,389,CR,Costa rica,2010,0.77
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10,-84,389,CR,Costa rica,1980,1.11
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10,-84,389,CR,Costa rica,2045,0.43
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10,-84,389,CR,Costa rica,1950,0.23
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,10,-84,389,CR,Costa rica,2015,0.71
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,9.935012,-84.084051,389,CR,Costa rica,2000,3.51
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,9.935012,-84.084051,389,CR,Costa rica,2010,2.69
+Crime,recorded_theft_rate,Recorded theft rate per 100,000 population,n,10,-84,389,Costa rica,2001,479.16
+Crime,recorded_theft_rate,Recorded theft rate per 100,000 population,n,10,-84,389,Costa rica,2002,442.92
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,10,-84,389,CR,Costa rica,1985,1
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,10,-84,389,CR,Costa rica,1995,1
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,10,-84,389,CR,Costa rica,1980,1
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,10,-84,389,CR,Costa rica,1990,1
+Population,pop_urban_percentage,Percentage of national population living in urban areas,p,10,-84,389,CR,Costa rica,2007,62.8
+Crime,recorded_assault_rate,Recorded assault rate per 100,000 population,n,10,-84,389,Costa rica,2001,57.99
+Crime,recorded_assault_rate,Recorded assault rate per 100,000 population,n,10,-84,389,Costa rica,2002,57.94
+Streets,percentage_of_roads,Percentage of roads measured in length,p,10,-84,389,CR,Costa rica,2000,24.4
+Transport,total_number_of_motor_vehicles,Total number of motor vehicles (per 1000 population),n,10,-84,389,CR,Costa rica,2003,185
+Transport,total_number_of_motor_vehicles,Total number of motor vehicles (per 1000 population),n,10,-84,389,CR,Costa rica,1990,87
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,10,-84,389,CR,Costa rica,1985,48.99
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,10,-84,389,CR,Costa rica,1955,100
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,10,-84,389,CR,Costa rica,2020,55.51
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,10,-84,389,CR,Costa rica,1990,52.7
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,10,-84,389,CR,Costa rica,1960,100
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,10,-84,389,CR,Costa rica,2025,56.27
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,10,-84,389,CR,Costa rica,1995,55.26
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,10,-84,389,CR,Costa rica,1965,100
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,10,-84,389,CR,Costa rica,2000,55.47
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,10,-84,389,CR,Costa rica,1970,100
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,10,-84,389,CR,Costa rica,2005,54.43
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,10,-84,389,CR,Costa rica,1975,100
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,10,-84,389,CR,Costa rica,2010,54.21
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,10,-84,389,CR,Costa rica,1980,48.02
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,10,-84,389,CR,Costa rica,1950,100
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,10,-84,389,CR,Costa rica,2015,54.78
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,10,-84,389,CR,Costa rica,2020,1627
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,10,-84,389,CR,Costa rica,2025,1737
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,10,-84,389,CR,Costa rica,2000,1032
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,10,-84,389,CR,Costa rica,2005,1217
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,10,-84,389,CR,Costa rica,2010,1374
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,10,-84,389,CR,Costa rica,2015,1506
+Slum dwellers,urban_population_living_in_slum,Proportion of urban population living in slum area,p,10,-84,389,CR,Costa rica,2005,10.9
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,10,-84,389,CR,Costa rica,2020,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,10,-84,389,CR,Costa rica,2025,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,10,-84,389,CR,Costa rica,2000,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,10,-84,389,CR,Costa rica,2005,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,10,-84,389,CR,Costa rica,2010,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,10,-84,389,CR,Costa rica,2015,1
+Population,urban_population_cities,Urban population – Cities,1000,9.935012,-84.084051,389,CR,Costa rica,2000,1032
+Population,urban_population_cities,Urban population – Cities,1000,9.935012,-84.084051,389,CR,Costa rica,2010,1466
+Population,urban_population_cities,Urban population – Cities,1000,9.935012,-84.084051,389,CR,Costa rica,2020,1920
+Resilience,loss_of_lives_in_floods_per_million_population,Number of loss of lives in floods per million population,n,10,-84,389,CR,Costa rica,1980,0.51
+Slum dwellers,urban_population_percentage_500k_1m,Percentage of urban population (by country) – 500 000 to 1 million inhabitants,p,10,-84,389,CR,Costa rica,1985,51.01
+Slum dwellers,urban_population_percentage_500k_1m,Percentage of urban population (by country) – 500 000 to 1 million inhabitants,p,10,-84,389,CR,Costa rica,1995,44.74
+Slum dwellers,urban_population_percentage_500k_1m,Percentage of urban population (by country) – 500 000 to 1 million inhabitants,p,10,-84,389,CR,Costa rica,1980,51.98
+Slum dwellers,urban_population_percentage_500k_1m,Percentage of urban population (by country) – 500 000 to 1 million inhabitants,p,10,-84,389,CR,Costa rica,1990,47.3
+Population,urban_population_countries,Urban population – Countries,1000,10,-84,389,CR,Costa rica,2050,5236
+Population,urban_population_countries,Urban population – Countries,1000,10,-84,389,CR,Costa rica,1950,324
+Population,urban_population_countries,Urban population – Countries,1000,10,-84,389,CR,Costa rica,1955,383
+Population,urban_population_countries,Urban population – Countries,1000,10,-84,389,CR,Costa rica,1960,457
+Population,urban_population_countries,Urban population – Countries,1000,10,-84,389,CR,Costa rica,1965,567
+Population,urban_population_countries,Urban population – Countries,1000,10,-84,389,CR,Costa rica,1970,707
+Population,urban_population_countries,Urban population – Countries,1000,10,-84,389,CR,Costa rica,1975,848
+Population,urban_population_countries,Urban population – Countries,1000,10,-84,389,CR,Costa rica,1980,1012
+Population,urban_population_countries,Urban population – Countries,1000,10,-84,389,CR,Costa rica,1985,1229
+Population,urban_population_countries,Urban population – Countries,1000,10,-84,389,CR,Costa rica,1990,1559
+Population,urban_population_countries,Urban population – Countries,1000,10,-84,389,CR,Costa rica,1995,1939
+Population,urban_population_countries,Urban population – Countries,1000,10,-84,389,CR,Costa rica,2000,2318
+Population,urban_population_countries,Urban population – Countries,1000,10,-84,389,CR,Costa rica,2005,2670
+Population,urban_population_countries,Urban population – Countries,1000,10,-84,389,CR,Costa rica,2007,2804
+Population,urban_population_countries,Urban population – Countries,1000,10,-84,389,CR,Costa rica,2010,3001
+Population,urban_population_countries,Urban population – Countries,1000,10,-84,389,CR,Costa rica,2015,3331
+Population,urban_population_countries,Urban population – Countries,1000,10,-84,389,CR,Costa rica,2020,3656
+Population,urban_population_countries,Urban population – Countries,1000,10,-84,389,CR,Costa rica,2025,3973
+Population,urban_population_countries,Urban population – Countries,1000,10,-84,389,CR,Costa rica,2030,4277
+Population,urban_population_countries,Urban population – Countries,1000,10,-84,389,CR,Costa rica,2035,4561
+Population,urban_population_countries,Urban population – Countries,1000,10,-84,389,CR,Costa rica,2040,4817
+Population,urban_population_countries,Urban population – Countries,1000,10,-84,389,CR,Costa rica,2045,5043
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,10,-84,389,CR,Costa rica,2005,291
+Transport,passengers_carried_by_air,Passengers carried by air,1000,10,-84,389,CR,Costa rica,2004,884
+Transport,total_railway_route,Total railway route,km,10,-84,389,CR,Costa rica,1999,848
+Population,population_capital_cities,Population of capital cities,1000,9.935012,-84.084051,389,CR,Costa rica,2007,1284
+Resilience,number_of_refugees_by_country_of_asylum,Number of refugees by country of asylum,n,10,-84,389,CR,Costa rica,2005,11253
+Resilience,loss_of_lives_in_floods,Average annual loss of lives in floods,n,10,-84,389,CR,Costa rica,1980,1.67
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,10,-84,389,CR,Costa rica,2020,44.49
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,10,-84,389,CR,Costa rica,2025,43.73
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,10,-84,389,CR,Costa rica,2000,44.53
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,10,-84,389,CR,Costa rica,2005,45.57
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,10,-84,389,CR,Costa rica,2010,45.79
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,10,-84,389,CR,Costa rica,2015,45.22
+Crime,recorded_bribery_rate,Recorded bribery rate per 100,000 population,n,10,-84,389,Costa rica,2001,0.49
+Crime,recorded_bribery_rate,Recorded bribery rate per 100,000 population,n,10,-84,389,Costa rica,2002,0.63
+Resilience,loss_of_lives_by_earthquake_per_million_population,Number of loss of lives by earthquake per million population,n,10,-84,389,CR,Costa rica,1980,0.85
+Resilience,loss_of_lives_in_cyclones,Average annual loss of lives in cyclones,n,10,-84,389,CR,Costa rica,1980,4.29
+Resilience,loss_of_lives_by_earthquake,Average annual loss of lives in earthquake,n,10,-84,389,CR,Costa rica,1980,2.52
+Resilience,number_of_cyclones,Average annual number of events in cyclones,n,10,-84,389,CR,Costa rica,1980,0.19
+Population,percentage_of_international_migrants,Percentage of international migrants,p,10,-84,389,CR,Costa rica,2000,7.9
+Population,percentage_of_international_migrants,Percentage of international migrants,p,10,-84,389,CR,Costa rica,1995,6.6
+Population,percentage_of_international_migrants,Percentage of international migrants,p,10,-84,389,CR,Costa rica,2005,10.2
+Population,population,Total population,1000,10,-84,389,CR,Costa rica,2050,6426
+Population,population,Total population,1000,10,-84,389,CR,Costa rica,1950,966
+Population,population,Total population,1000,10,-84,389,CR,Costa rica,1955,1129
+Population,population,Total population,1000,10,-84,389,CR,Costa rica,1960,1334
+Population,population,Total population,1000,10,-84,389,CR,Costa rica,1965,1582
+Population,population,Total population,1000,10,-84,389,CR,Costa rica,1970,1821
+Population,population,Total population,1000,10,-84,389,CR,Costa rica,1975,2051
+Population,population,Total population,1000,10,-84,389,CR,Costa rica,1980,2347
+Population,population,Total population,1000,10,-84,389,CR,Costa rica,1985,2697
+Population,population,Total population,1000,10,-84,389,CR,Costa rica,1990,3076
+Population,population,Total population,1000,10,-84,389,CR,Costa rica,1995,3475
+Population,population,Total population,1000,10,-84,389,CR,Costa rica,2000,3929
+Population,population,Total population,1000,10,-84,389,CR,Costa rica,2005,4327
+Population,population,Total population,1000,10,-84,389,CR,Costa rica,2007,4468
+Population,population,Total population,1000,10,-84,389,CR,Costa rica,2010,4665
+Population,population,Total population,1000,10,-84,389,CR,Costa rica,2015,4983
+Population,population,Total population,1000,10,-84,389,CR,Costa rica,2020,5276
+Population,population,Total population,1000,10,-84,389,CR,Costa rica,2025,5549
+Population,population,Total population,1000,10,-84,389,CR,Costa rica,2030,5795
+Population,population,Total population,1000,10,-84,389,CR,Costa rica,2035,6008
+Population,population,Total population,1000,10,-84,389,CR,Costa rica,2040,6185
+Population,population,Total population,1000,10,-84,389,CR,Costa rica,2045,6324
+Slum dwellers,urban_population_share_national,Share in national urban population,p,9.935012,-84.084051,389,CR,Costa rica,2000,44.6
+Slum dwellers,urban_population_share_national,Share in national urban population,p,9.935012,-84.084051,389,CR,Costa rica,2010,49
+Slum dwellers,urban_population_share_national,Share in national urban population,p,9.935012,-84.084051,389,CR,Costa rica,2020,53.1
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,10,-84,389,CR,Costa rica,1990,16
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,10,-84,389,CR,Costa rica,1960,87
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,10,-84,389,CR,Costa rica,1995,14.3
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,10,-84,389,CR,Costa rica,2000,12.5
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,10,-84,389,CR,Costa rica,1970,62
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,10,-84,389,CR,Costa rica,2005,11
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,10,-84,389,CR,Costa rica,2007,10.4
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,10,-84,389,CR,Costa rica,1980,26
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,10,-84,389,CR,Costa rica,1990,18
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,10,-84,389,CR,Costa rica,1960,123
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,10,-84,389,CR,Costa rica,1995,16
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,10,-84,389,CR,Costa rica,2000,14
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,10,-84,389,CR,Costa rica,1970,83
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,10,-84,389,CR,Costa rica,2005,12.2
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,10,-84,389,CR,Costa rica,2007,11.48
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,10,-84,389,CR,Costa rica,1980,31
+Population,rural_population,Rural population,1000,10,-84,389,CR,Costa rica,2050,1190
+Population,rural_population,Rural population,1000,10,-84,389,CR,Costa rica,1950,642
+Population,rural_population,Rural population,1000,10,-84,389,CR,Costa rica,1955,746
+Population,rural_population,Rural population,1000,10,-84,389,CR,Costa rica,1960,876
+Population,rural_population,Rural population,1000,10,-84,389,CR,Costa rica,1965,1015
+Population,rural_population,Rural population,1000,10,-84,389,CR,Costa rica,1970,1114
+Population,rural_population,Rural population,1000,10,-84,389,CR,Costa rica,1975,1203
+Population,rural_population,Rural population,1000,10,-84,389,CR,Costa rica,1980,1335
+Population,rural_population,Rural population,1000,10,-84,389,CR,Costa rica,1985,1468
+Population,rural_population,Rural population,1000,10,-84,389,CR,Costa rica,1990,1517
+Population,rural_population,Rural population,1000,10,-84,389,CR,Costa rica,1995,1536
+Population,rural_population,Rural population,1000,10,-84,389,CR,Costa rica,2000,1611
+Population,rural_population,Rural population,1000,10,-84,389,CR,Costa rica,2005,1657
+Population,rural_population,Rural population,1000,10,-84,389,CR,Costa rica,2007,1664
+Population,rural_population,Rural population,1000,10,-84,389,CR,Costa rica,2010,1664
+Population,rural_population,Rural population,1000,10,-84,389,CR,Costa rica,2015,1652
+Population,rural_population,Rural population,1000,10,-84,389,CR,Costa rica,2020,1621
+Population,rural_population,Rural population,1000,10,-84,389,CR,Costa rica,2025,1576
+Population,rural_population,Rural population,1000,10,-84,389,CR,Costa rica,2030,1518
+Population,rural_population,Rural population,1000,10,-84,389,CR,Costa rica,2035,1448
+Population,rural_population,Rural population,1000,10,-84,389,CR,Costa rica,2040,1368
+Population,rural_population,Rural population,1000,10,-84,389,CR,Costa rica,2045,1281
+Resilience,loss_of_lives_in_cyclones_per_million_population,Number of loss of lives in cyclones per million population,n,10,-84,389,CR,Costa rica,1980,1.22
+Slum dwellers,slum_population,Slum population – Urban,1000,10,-84,389,CR,Costa rica,2005,291
+Health,hiv_prevalence_15_to_49_year,HIV prevalence among population 15-49 year,p,10,-84,389,CR,Costa rica,2001,0.6
+Health,hiv_prevalence_15_to_49_year,HIV prevalence among population 15-49 year,p,10,-84,389,CR,Costa rica,2003,0.6
+Slum dwellers,slum_proportion_living_urban,Percentage of slum population in urban area,p,10,-84,389,CR,Costa rica,2005,10.9
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,10,-84,389,CR,Costa rica,1990,16
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,10,-84,389,CR,Costa rica,1960,87
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,10,-84,389,CR,Costa rica,1995,14.3
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,10,-84,389,CR,Costa rica,2000,12.5
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,10,-84,389,CR,Costa rica,1970,62
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,10,-84,389,CR,Costa rica,2005,11
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,10,-84,389,CR,Costa rica,2007,10.4
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,10,-84,389,CR,Costa rica,1980,26
+Streets,total_road_network,Total road network (in km),n,10,-84,389,CR,Costa rica,2000,35330
+Resilience,refugees_by_country_of_origin,Number of refugees by country of origin,n,10,-84,389,CR,Costa rica,2005,178
